@@ -1,0 +1,6 @@
+# IDE files
+.vscode 
+
+# compiled files
+lab_*/*
+!lab_*/*.*
